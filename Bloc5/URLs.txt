@@ -1,0 +1,10 @@
+GITHUB:
+https://github.com/Farabouna/Jedha_Data_Science_and_Engineering_Fullstack
+STREAMLIT:
+https://huggingface.co/spaces/Farabouna/GetAround
+MLFLOW:
+https://huggingface.co/spaces/Farabouna/GetAroundPricing
+API:
+https://huggingface.co/spaces/Farabouna/GetAroudApiSpace
+https://farabouna-getaroudapispace.hf.space/docs
+https://farabouna-getaroudapispace.hf.space/predict

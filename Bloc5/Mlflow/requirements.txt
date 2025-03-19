@@ -1,0 +1,11 @@
+boto3
+pandas
+numpy
+scipy
+gunicorn 
+streamlit 
+scikit-learn 
+matplotlib 
+mlflow
+psycopg2-binary
+joblib

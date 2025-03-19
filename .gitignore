@@ -1,3 +1,0 @@
-# Ignore unnecessary Jupyter files, but keep actual notebooks
-*.ipynb_checkpoints
-!*.ipynb
