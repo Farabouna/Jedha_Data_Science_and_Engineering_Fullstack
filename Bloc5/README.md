@@ -82,10 +82,8 @@ Uvicorn 🚀 (API Server)
 Streamlit 📈 (Dashboard)
 
 ---
-
-🔗 Useful Links
-📦 GitHub Repo: https://github.com/Farabouna/Jedha_Data_Science_and_Engineering_Fullstack
-📊 MLflow Tracking: https://huggingface.co/spaces/Farabouna/GetAroundPricing
-📄 API Docs: https://huggingface.co/spaces/Farabouna/GetAroudApiSpace
-📊 Live Dashboard: https://huggingface.co/spaces/Farabouna/GetAround
-
+🔗 Useful Links  
+📦 GitHub Repo: [GitHub](https://github.com/Farabouna/Jedha_Data_Science_and_Engineering_Fullstack) <br>  
+📊 MLflow Tracking: [MLflow UI](https://huggingface.co/spaces/Farabouna/GetAroundPricing) <br>  
+📄 API Docs: [FastAPI UI](https://huggingface.co/spaces/Farabouna/GetAroudApiSpace) <br>  
+📊 Live Dashboard: [Streamlit](https://huggingface.co/spaces/Farabouna/GetAround)
