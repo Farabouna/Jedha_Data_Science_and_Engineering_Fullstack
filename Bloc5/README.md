@@ -72,23 +72,23 @@ A **FastAPI-based API** will be documented at:
 - **📖 Full Documentation:** Describes available endpoints, expected inputs, and outputs.
 
 ---
-1️⃣ Run the API Locally
-uvicorn api:app --host 0.0.0.0 --port 8080 --reload
-🔗 Open API Docs: http://127.0.0.1:8080/docs
+1️⃣ Run the API Locally  
+uvicorn api:app --host 0.0.0.0 --port 8080 --reload  
+🔗 Open API Docs: http://127.0.0.1:8080/docs  
 
-2️⃣ Run the Streamlit Dashboard
-streamlit run app.py
+2️⃣ Run the Streamlit Dashboard  
+streamlit run app.py  
 🔗 Open Dashboard: http://localhost:8501
 
 ---
 
 🛠 Technologies Used
-Python 🐍
-FastAPI ⚡ (Backend)
-MLflow 📊 (Model Tracking)
-Scikit-Learn 🎯 (Machine Learning)
-Uvicorn 🚀 (API Server)
-Streamlit 📈 (Dashboard)
+Python 🐍  
+FastAPI ⚡ (Backend)  
+MLflow 📊 (Model Tracking)  
+Scikit-Learn 🎯 (Machine Learning)  
+Uvicorn 🚀 (API Server)  
+Streamlit 📈 (Dashboard)  
 
 ---
 
