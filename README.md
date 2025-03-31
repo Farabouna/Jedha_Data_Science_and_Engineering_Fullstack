@@ -14,6 +14,8 @@ The certification consists of six skill blocks:
 5️⃣ Industrialization of machine learning models and automation ⚙️  
 6️⃣ Data management project leadership 🚀  
 
+---
+
 📌 Certified Competencies  
 1️⃣ Building and Managing a Data Infrastructure  
 ✅ Design a robust Data Lake 🌊 & Data Warehouse 🏛️ to meet storage, security, and compliance needs.  
